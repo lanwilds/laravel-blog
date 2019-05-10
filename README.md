@@ -19,5 +19,5 @@ Laravel Blog website designed using bootstrap 4.3 as front end.
   http://getbootstrap.com/<br>
 
 ## LICENCE
-Copyright 2018 LanwilDS Licenced to MIT licence
+Copyright 2019 lanwilds Licenced to MIT licence
 
